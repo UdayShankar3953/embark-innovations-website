@@ -35,6 +35,8 @@ Check out our demo video [here](#your-demo-video-link).
 
 ![Contact Section](screenshots/contact.png)
 
+![footer Section](screenshots/contact.png)
+
 ## Installation
 
 1. Clone the repository:
