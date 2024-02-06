@@ -1,15 +1,13 @@
 # Embark Innovations Website
 
-Welcome to the official repository for the Embark Innovations website. This repository contains the source code for our company website, showcasing our services, portfolio, and more.
+Welcome to the official repository for the Embark Innovations website, developed by Udyavara Uday Shankar during the Web Development Internship at Next24tech Technology & Services. This repository contains the source code for our company website, showcasing our services, portfolio, and more.
 
 ## Table of Contents
 
 - [Features](#features)
 - [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
