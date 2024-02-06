@@ -19,7 +19,7 @@ Welcome to the official repository for the Embark Innovations website, developed
 
 ## Demo
 
-Check out our demo video [here]([#your-demo-video-link](https://drive.google.com/file/d/14_A_CJ7l1orBCqCrl5D4lVDEW_Vqm5u3/view?usp=sharing)).
+Check out our demo video [here](https://drive.google.com/file/d/14_A_CJ7l1orBCqCrl5D4lVDEW_Vqm5u3/view?usp=sharing).
 
 ### Screenshotsl
 
