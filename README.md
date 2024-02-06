@@ -21,21 +21,23 @@ Welcome to the official repository for the Embark Innovations website. This repo
 
 ## Demo
 
-Check out our demo video [here](#your-demo-video-link).
+Check out our demo video [here]([#your-demo-video-link](https://drive.google.com/file/d/14_A_CJ7l1orBCqCrl5D4lVDEW_Vqm5u3/view?usp=sharing)).
 
-### Screenshots
+### Screenshotsl
 
-![Home Page](screenshots/home.png)
+![Home Page](ScreenShots/home.png)
 
-![Services Section](screenshots/services.png)
+![Services Section](ScreenShots/services.png)
 
-![Portfolio Section](screenshots/portfolio.png)
+![Portfolio Section](ScreenShots/protfolio.png)
 
-![About Us Section](screenshots/about.png)
+![Full-Portfolio Section](ScreenShots/fullportifolio.png)
 
-![Contact Section](screenshots/contact.png)
+![About Us Section](ScreenShots/aboutUs.png)
 
-![footer Section](screenshots/contact.png)
+![Contact Section](ScreenShots/contactUs.png)
+
+![footer Section](ScreenShots/footer.png)
 
 ## Installation
 
